@@ -7,5 +7,5 @@
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ... https://twitter.com/ken_nzau
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I am a Kenyan Living in Brazil.
+- ⚡ Fun fact: ...I love smoothies
 -->
