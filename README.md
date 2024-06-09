@@ -19,5 +19,5 @@ Connect with me: |
   If you're eager to collaborate, exchange ideas, or embark on a coding adventure together, don't hesitate to reach out! Feel free to drop me a line via email or connect with me on LinkedIn.
   Happy coding!
 
-Ken Nzau
+Ken Nzau - 
 Frontend Engineer
