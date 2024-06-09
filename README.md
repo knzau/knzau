@@ -1,4 +1,4 @@
-Hi there, I am Ken, a Frontend Engineer. I sculpt elegant interfaces and engineer delightful user experiences.
+Hi there, I am Ken, a Frontend Engineer.
 I am a dedicated Frontend Engineer with a fervent passion for building scalable web applications.
 
 Tools of the trade:
