@@ -1,5 +1,5 @@
 Hi there, I am Ken, a Frontend Engineer. I sculpt elegant interfaces and engineer delightful user experiences.
-I am a dedicated Frontend Engineer with a fervent passion for crafting polished web interfaces and architecting seamless user journeys. Armed with a keyboard and a keen eye for design, I embark on expeditions to translate ideas into intuitive digital experiences.
+I am a dedicated Frontend Engineer with a fervent passion for building scalable web applications.
 
 Tools of the trade:
   - HTML 📝 
